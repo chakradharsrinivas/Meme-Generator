@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+All the top and trending memes are fetched using API and are disypled in the type of cards as below
+![image](https://user-images.githubusercontent.com/86602285/158524222-4b9eddbb-fc53-4424-b75c-5dd8c39a5021.png)
+And upon choosin a meme u can add the commenting words as per ur desired requirements like below and can download it.
+![image](https://user-images.githubusercontent.com/86602285/158524301-7de7c400-2127-48fe-9392-b9573e6f1d15.png)
+
+An sample meme(If you don't like my joking style, ignore me)
+![image](https://user-images.githubusercontent.com/86602285/158524805-b9b88de4-9d78-4bbd-a938-c64e1547e7a5.png)
+
