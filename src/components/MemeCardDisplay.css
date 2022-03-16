@@ -1,0 +1,43 @@
+.meme-card-container {
+
+    border: 2px #EEE;
+    margin: 2%;
+    height: 96%;
+    background-color:rgb(255, 197, 88);
+    border-radius: 16px;
+}
+
+.meme-card-container:hover {
+    border-color: #000000;
+}
+
+.meme-card-container .meme-image {
+    width: 90%;
+    height: 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 5px;
+    border: 2px #EEE;
+}
+
+.meme-card-container .meme-image:hover {
+    border-color: #000000;
+}
+
+.meme-card-container .meme-name {
+    text-align: center;
+    color:#EEE;
+    border: 1px #EEE;
+    margin: 1% 5%;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+font-family: cursive;
+}
+
+.meme-card-container .meme-name:hover {
+    border-color: #000000;
+    color:#000000;
+    font-size: large;
+}

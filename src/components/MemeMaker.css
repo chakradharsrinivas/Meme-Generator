@@ -1,0 +1,79 @@
+ .meme-maker {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.go-back-btn {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    color: #EEE;
+    display:block;
+    border-color: black;
+}
+
+.go-back-btn:hover {
+    border-color:#ff9204;
+    color: #ff9204;
+}
+
+.target-image {
+    width: 400px;
+    border-radius: 8px;
+    padding: 8px;
+    border:2px solid rgb(0, 0, 0);
+    box-shadow:5px 10px rgb(204, 0, 255);
+}
+
+.download-btn {
+    margin: 8px;
+    padding: 8px;
+    width: 10rem;
+    height: 3rem;
+    color: #EEE;
+    border-width: 1.5px;
+    border-color: white;
+    background-color: rgb(9, 165, 255);
+    border-radius: 8px;
+}
+
+.download-btn:hover {
+    color: #DCC500;
+    border-color: #DCC500;
+}
+
+.generate-btn {
+    margin: 8px;
+    padding: 8px;
+    width: 10rem;
+        height: 3rem;
+    color: #EEE;
+    border-width: 1.5px;
+    border-color: white;
+    background-color: rgb(9, 165, 255);
+    border-radius: 8px;
+}
+
+.generate-btn:hover {
+    color: #DCC500;
+    border-color:  #DCC500;
+}
+
+.meme-maker .input-container {
+    margin: 16px;
+}
+
+.text-field-input {
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color: #EEE;
+    margin:4px 8px;
+    border-radius: 8px;
+    border-width: 3px;
+    border-color: rgb(139, 139, 139);
+}
